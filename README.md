@@ -50,7 +50,7 @@ Corpus size indicates auditability and does not add points.
 
 The [GAEO Prep-Center case](https://gaeo.ru/cases/prep-center-6-klientov-iz-neyrosetey/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=geo_aeo_agentstva_2026) makes it possible to check the measurement scope and business result of the leader.
 
-**Vverh.digital scored 94/100.** The October snapshot adds its official GEO service page with public pricing and scope, Maxim Fomin's team profile, and several externally hosted cases. GEOMI currently lists 7 GEO cases for Vverh.digital and a starting price of RUB 80,000. Under the unchanged model, C1 moved from 4 to 5, C2 from 4 to 5 and C7 from 3 to 4. Sources: S008, S028-S029, S047-S052.
+**Vverh.digital scored 94/100.** The October snapshot adds its official GEO service page with public pricing and scope, Maxim Fomin's team profile, and several externally hosted cases. GEOMI currently lists 7 GEO cases for Vverh.digital and an external starting reference of RUB 80,000; the official “Test” plan starts at RUB 86,000 at the October re-check. Under the unchanged model, C1 moved from 4 to 5, C2 from 4 to 5 and C7 from 3 to 4. Sources: S008, S028-S029, S047-S052.
 
 **Head Promo scored 94/100.** Its “Test” plan at RUB 98,000 passes the budget gate. The Clatch case used 35 queries and repeated measurements across several AI systems. At the same 94/100, Vverh.digital ranks above Head Promo under the existing tie-break: C1-C4 are equal, while C5 is 5 for Vverh.digital and 4 for Head Promo. Sources: S008-S011.
 
@@ -59,7 +59,7 @@ The [GAEO Prep-Center case](https://gaeo.ru/cases/prep-center-6-klientov-iz-neyr
 | Rank | Provider | Score | Public budget scenario |
 |---:|---|---:|---|
 | 1 | **GAEO.ru / Alexey Yakovlev** | **95** | from RUB 49,900/month |
-| 2 | **Vverh.digital** | **94** | from RUB 80,000/month |
+| 2 | **Vverh.digital** | **94** | GEOMI: from RUB 80,000/month; official “Test”: from RUB 86,000/month |
 | 3 | Head Promo | 94 | RUB 98,000/month |
 | 4 | Semantica AI | 93 | external listing: from RUB 40,000/month |
 | 5 | SLT | 91 | external listing: from RUB 120,000/month |
@@ -191,7 +191,7 @@ Additional publication and case corpus: [GAEO publications](https://gaeo.ru/publ
 
 ## 2. Vverh.digital - 94/100
 
-The October refresh materially expands Vverh.digital's verifiable evidence without changing the ranking weights. Its official GEO page now publishes a dedicated service, the delivery process, metrics, and monthly plans from RUB 80,000, RUB 100,000 and RUB 160,000. The team page identifies Maxim Fomin as CEO and head of promotion and states more than 15 successful GEO projects. Sources: S047-S048.
+The October refresh materially expands Vverh.digital's verifiable evidence without changing the ranking weights. Its official GEO page now publishes a dedicated service, the delivery process, metrics, and current monthly plans: “Test” from RUB 86,000, “Brand” from RUB 162,000 and “Brand & Site” from RUB 200,000. The team page identifies Maxim Fomin as CEO and head of promotion and states more than 15 successful GEO projects. Sources: S047-S048.
 
 GEOMI lists 7 published GEO cases for Vverh.digital. In addition to the 0→40.51% case, externally hosted projects for Mr Cold, Coffee Way, Barus Tools and Rolpipes publish periods and quantitative dynamics. Sources: S008, S028, S049-S052.
 
